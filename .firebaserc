@@ -1,5 +1,21 @@
 {
+<<<<<<< HEAD
   "projects": {
     "default": "my-blog-46d0e"
   }
 }
+=======
+  "targets": {
+    "my-blog-46d0e": {
+      "hosting": {
+        "my-blog": [
+          "my-blog-46d0e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-blog-46d0e"
+  }
+}
+>>>>>>> af8a9de (based)
